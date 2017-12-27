@@ -1,5 +1,5 @@
 # FDL Combat Build Guid
-_As seen in [HoochCOw](https://www.reddit.com/user/HoochCow)'s comment on [/r/eliteoutfitters](https://www.reddit.com/r/eliteoutfitters/comments/74yzs0/fdl_setups_for_both_pvp_and_pve/)_
+_As seen in [HoochCOw](https://www.reddit.com/user/HoochCow)'s comment on [/r/eliteoutfitters](https://www.reddit.com/r/eliteoutfitters/comments/74yzs0/fdl_setups_for_both_pvp_and_pve/)._
 
 ## Core Internals
 
