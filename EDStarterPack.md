@@ -34,7 +34,7 @@ Here are some useful resources you will want to check out:
 
 [INARA](https://inara.cz/galaxy-engineer/1/) (A Pilot’s Resource. Find Wings to join and more)
 
-[EDDI](https://forums.frontier.co.uk/showthread.php/226649-EDDI-A(nother) (A cool plugin that doesn’t require Voice Attack to enhance your game)
+[EDDI](https://forums.frontier.co.uk/showthread.php/226649-EDDI-A(nother)) (A cool plugin that doesn’t require Voice Attack to enhance your game)
 
 [Star Map](https://www.edsm.net/) (Also runs within the EDDI 3rd party program)
 
